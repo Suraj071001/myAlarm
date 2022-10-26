@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAlarm</string>
+
+    <string-array name="ringtones">
+        <item>wano_kuni_song</item>
+        <item>ringtone1</item>
+    </string-array>
+</resources>
